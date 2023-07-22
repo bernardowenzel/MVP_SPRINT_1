@@ -1,2 +1,2 @@
-# MVP_SPRINT_1
-Bases MVP Sprint 1 - Pós Ciência de Dados
+# MVP_SPRINT_2
+Bases MVP Sprint 2 - Pós Ciência de Dados
